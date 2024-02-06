@@ -1,1 +1,1 @@
-https://github.com/OvchinnikovAndpey/Ono_tebe_nado.git
+https://github.com/OvchinnikovAndpey/ono-tebe-nado.git
