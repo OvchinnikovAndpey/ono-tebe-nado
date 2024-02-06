@@ -8,6 +8,7 @@ body {
   width: 1100px;
   margin: 0 auto;
   font-family: Raleway, sans-serif;
+  background: rgb(245, 245, 245);
 }
 
 h1,
@@ -31,4 +32,13 @@ a {
 
 img {
   width: 100%;
+}
+
+.address {
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
+  font-style: normal;
+
 }
