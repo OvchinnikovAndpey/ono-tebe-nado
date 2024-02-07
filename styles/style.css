@@ -139,7 +139,7 @@
 .bet-button {
     position: relative;
     width: 257px;
-    height: 51px;
+    padding: 12px 32px 11px 32px;
     font-weight: 500;
     text-transform: uppercase;
     border: 1px solid rgb(255, 255, 255);
